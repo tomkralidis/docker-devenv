@@ -1,3 +1,5 @@
+[![Docker Build](https://img.shields.io/docker/automated/tomkralidis/docker-devenv.svg)](https://hub.docker.com/r/tomkralidis/docker-devenv)
+
 # docker-devenv
 Development environment using Docker
 
